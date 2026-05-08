@@ -42,9 +42,8 @@
 
 ### 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
 - 💻 [GitHub](https://github.com/DevLuizHenrique)
-- 📧 Email: **seuemail@exemplo.com**
+- 📬 Entre em contato por mensagem aqui no GitHub
 
 ---
 
