@@ -1,16 +1,55 @@
-## Hi there 👋
+# Luiz Henrique
 
-<!--
-**DevLuizHenrique/DevLuizHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Software Developer
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil! Aqui você encontra um pouco sobre mim, minhas stacks, estatísticas e como entrar em contato.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mim
+
+- Desenvolvedor de software
+- Brasil
+- Sempre aprendendo e construindo
+
+---
+
+## Tecnologias
+
+**Back-end**
+- Java / Spring
+- Node.js
+
+**Front-end**
+- React
+
+**Mobile**
+- React Native
+
+**Banco de dados**
+- PostgreSQL
+- MySQL
+
+**Ferramentas**
+- Git / GitHub
+- Docker
+
+---
+
+## Estatísticas
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLuizHenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuizHenrique&layout=compact&langs_count=7&theme=dracula" />
+</p>
+
+---
+
+## Onde me encontrar
+
+- LinkedIn: https://www.linkedin.com/in/seu-link
+- Email: seuemail@exemplo.com
+
+---
+
+Se você curtiu algo por aqui, fique à vontade para dar uma estrela nos repositórios!
