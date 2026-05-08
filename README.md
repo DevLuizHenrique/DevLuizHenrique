@@ -42,8 +42,9 @@
 
 ### 📫 Contato
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-henrique-ferreira-229b87263)
+- 🌐 [Portfólio](https://portfolio-luiz-henrique-ferreira.vercel.app/)
 - 💻 [GitHub](https://github.com/DevLuizHenrique)
-- 📬 Entre em contato por mensagem aqui no GitHub
 
 ---
 
