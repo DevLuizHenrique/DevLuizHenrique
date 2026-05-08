@@ -1,56 +1,51 @@
-# Luiz Henrique
+<h1 align="center">Olá, pessoal! 👋</h1>
 
-> Software Developer
-
-Bem-vindo ao meu perfil! Aqui você encontra um pouco sobre mim, minhas stacks, estatísticas e como entrar em contato.
-
----
-
-## Sobre mim
-
-- Desenvolvedor de software
-- Brasil
-- Sempre aprendendo e construindo
-
----
-
-## Tecnologias
-
-**Back-end**
-- Java / Spring
-- Node.js
-
-**Front-end**
-- React
-
-**Mobile**
-- React Native
-
-**Banco de dados**
-- PostgreSQL
-- MySQL
-
-**Ferramentas**
-- Git / GitHub
-- Docker
-
----
-
-## Estatísticas
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLuizHenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuizHenrique&layout=compact&langs_count=7&theme=dracula" />
+<p align="center">
+  Eu sou <strong>Luiz Henrique</strong>.<br/>
+  Desenvolvedor apaixonado por criar soluções para <strong>web</strong>, <strong>mobile</strong> e <strong>backend</strong>.
 </p>
 
 ---
 
-## Onde me encontrar
+### 💼 Sobre mim
 
-- LinkedIn: https://www.linkedin.com/in/luiz-henrique-ferreira-229b87263
-- Portfólio: https://portfolio-luiz-henrique-ferreira.vercel.app/
-- GitHub: https://github.com/DevLuizHenrique
+- 👨‍💻 Desenvolvedor focado em aplicações modernas e escaláveis
+- 📚 Sempre estudando novas tecnologias e boas práticas
+- 🧠 Interesse em arquitetura de software, APIs e performance
+- 🤝 Aberto para colaborar em projetos e trocar conhecimento
 
 ---
 
-Se você curtiu algo por aqui, fique à vontade para dar uma estrela nos repositórios!
+### 🛠️ Tecnologias
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevLuizHenrique&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuizHenrique&layout=compact&theme=radical)
+
+</div>
+
+---
+
+### 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-henrique-ferreira-229b87263)
+- 🌐 [Portfólio](https://portfolio-luiz-henrique-ferreira.vercel.app/)
+- 💻 [GitHub](https://github.com/DevLuizHenrique)
+
+---
+
+> "Transformando ideias em soluções através de código." 🚀
