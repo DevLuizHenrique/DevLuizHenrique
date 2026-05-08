@@ -33,7 +33,7 @@ const luizHenrique = {
     databases: ["PostgreSQL", "MongoDB"],
     devOps: ["Docker", "Linux", "Git"],
   },
-  currentFocus: "Arquitetura de software e aplicações escaláveis",
+  currentFocus: "Arquitetura de software e Systems design",
 };
 ```
 
