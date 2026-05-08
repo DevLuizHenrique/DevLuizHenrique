@@ -47,8 +47,9 @@ Bem-vindo ao meu perfil! Aqui você encontra um pouco sobre mim, minhas stacks, 
 
 ## Onde me encontrar
 
-- LinkedIn: https://www.linkedin.com/in/seu-link
-- Email: seuemail@exemplo.com
+- LinkedIn: https://www.linkedin.com/in/luiz-henrique-ferreira-229b87263
+- Portfólio: https://portfolio-luiz-henrique-ferreira.vercel.app/
+- GitHub: https://github.com/DevLuizHenrique
 
 ---
 
